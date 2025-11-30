@@ -31,8 +31,8 @@ const techStack = {
       icon: "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg",
     },
     {
-      name: "Go",
-      icon: "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg",
+      name: "Spring",
+      icon: "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg"
     },
     {
       name: "GraphQL",
@@ -53,8 +53,8 @@ const techStack = {
       icon: "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg",
     },
     {
-      name: "Cassandra",
-      icon: "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apache/apache-original.svg",
+      name: "MSSQL",
+      icon: "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azuresqldatabase/azuresqldatabase-original.svg",
     },
   ],
   cloud: [
@@ -67,8 +67,8 @@ const techStack = {
       icon: "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg",
     },
     {
-      name: "Kubernetes",
-      icon: "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg",
+      name: "Terraform",
+      icon: "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-original.svg",
     },
     {
       name: "Kafka",
