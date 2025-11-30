@@ -11,23 +11,7 @@ const projects = [
     stats: "Live Sync",
     icon: Layout,
     color: "text-purple-400",
-  },
-  {
-    title: "Nebula Stream",
-    tech: ["Next.js", "WebRTC", "Go", "Cassandra"],
-    desc: "High-fidelity p2p video streaming architecture designed for zero-buffer interactions.",
-    stats: "4k Ready",
-    icon: Share2,
-    color: "text-blue-400",
-  },
-  {
-    title: "Cortex Neural Dashboard",
-    tech: ["Three.js", "Python", "TensorFlow", "React"],
-    desc: "Futuristic data visualization interface for neural network training metrics.",
-    stats: "WebGL 2.0",
-    icon: Cpu,
-    color: "text-emerald-400",
-  },
+  }
 ];
 
 export default function Projects() {
